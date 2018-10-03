@@ -9,6 +9,11 @@ const Managers = require('./managers');
 class SharpBot extends Client {
     constructor(config = {}) {
         super();
+	    
+	const client = new Client({
+		autoReconnect: true,
+		internalSharding: false,
+	});
 
         global.bot = this;
 
