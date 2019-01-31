@@ -30,7 +30,7 @@
     "didyoumean2": "^2.0.0",
     "discord-emoji": "^1.1.1",
     "discord.js": "^11.3.2",
-    "env-paths": "^1.0.0",
+    "env-paths": "^2.0.0",
     "figlet": "^1.2.0",
     "fs-extra": "^7.0.1",
     "google-translate-api": "^2.3.0",
