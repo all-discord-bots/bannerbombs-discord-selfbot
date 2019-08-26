@@ -49,7 +49,7 @@
     "webdict": "^0.3.0"
   },
   "devDependencies": {
-    "eslint": "^5.13.0",
+    "eslint": "^6.2.2",
     "husky": "^2.1.0",
     "nodemon": "^1.17.4"
   }
