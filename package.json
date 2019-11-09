@@ -22,7 +22,7 @@
   "author": "Rayzr522 <rayzr522@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.4.1",
+    "chalk": "^3.0.0",
     "cheerio": "^1.0.0-rc.2",
     "common-tags": "^1.7.2",
     "country-data": "^0.0.31",
