@@ -37,7 +37,7 @@
     "got": "^9.6.0",
     "inquirer": "^6.2.1",
     "math-expression-evaluator": "^1.2.16",
-    "meow": "^5.0.0",
+    "meow": "^6.0.0",
     "node-notifier": "^5.2.1",
     "normalize-url": "^4.1.0",
     "opn": "^6.0.0",
