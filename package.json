@@ -51,6 +51,6 @@
   "devDependencies": {
     "eslint": "^5.13.0",
     "husky": "^2.1.0",
-    "nodemon": "^1.17.4"
+    "nodemon": "^2.0.2"
   }
 }
