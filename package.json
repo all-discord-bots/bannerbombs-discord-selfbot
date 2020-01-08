@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "eslint": "^5.13.0",
-    "husky": "^2.1.0",
+    "husky": "^4.0.1",
     "nodemon": "^1.17.4"
   }
 }
