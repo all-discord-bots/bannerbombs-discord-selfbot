@@ -35,7 +35,7 @@
     "fs-extra": "^7.0.1",
     "google-translate-api": "^2.3.0",
     "got": "^9.6.0",
-    "inquirer": "^6.2.1",
+    "inquirer": "^7.0.4",
     "math-expression-evaluator": "^1.2.16",
     "meow": "^5.0.0",
     "node-notifier": "^5.2.1",
