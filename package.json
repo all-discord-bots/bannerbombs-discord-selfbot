@@ -44,7 +44,7 @@
     "path": "^0.12.7",
     "readdir-recursive": "^0.0.4",
     "roll": "^1.2.0",
-    "spotify-uri": "^1.0.0",
+    "spotify-uri": "^2.0.0",
     "spotify-web-api-node": "^4.0.0",
     "webdict": "^0.3.0"
   },
